@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">HappyKids</string>
+    <string name="home">Inicio</string>
+    <string name="computer">Ordenador</string>
+    <string name="video">Video</string>
+    <string name="video_game">Video Juego</string>
 </resources>
