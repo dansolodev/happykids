@@ -26,4 +26,8 @@ class HomeFragment : Fragment() {
         _binding = null
     }
 
+    companion object {
+        const val TAG = "HomeFragment"
+    }
+
 }

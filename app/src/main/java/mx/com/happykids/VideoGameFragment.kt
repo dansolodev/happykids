@@ -26,4 +26,8 @@ class VideoGameFragment : Fragment() {
         _binding = null
     }
 
+    companion object {
+        const val TAG = "VideoGameFragment"
+    }
+
 }

@@ -26,4 +26,8 @@ class ComputerFragment : Fragment() {
         _binding = null
     }
 
+    companion object {
+        const val TAG = "ComputerFragment"
+    }
+
 }
